@@ -1,0 +1,25 @@
+{
+  "name": "xlsx-analysis",
+  "version": "1.0.0",
+  "description": "Analysis xlsx as you wish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Yikf/xlsx-analysis.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "Kaifei Yi",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Yikf/xlsx-analysis/issues"
+  },
+  "homepage": "https://github.com/Yikf/xlsx-analysis#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
