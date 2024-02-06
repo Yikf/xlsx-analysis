@@ -4,7 +4,8 @@ Analysis xlsx as you wish
 ## Requirements
 - nodejs
 - xlsx
-you can install requirements by `npm i`
+
+Install requirements by `npm i`
 
 ## Usage
 ```bash
